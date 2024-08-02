@@ -1,0 +1,23 @@
+[33mcommit 0272ffd32a7d317e7ad1cf8b4882f0acfa07e3f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: AKSHAY MHASKE <akshaymhaske2027@gmail.com>
+Date:   Sat Aug 3 02:10:19 2024 +0530
+
+    Remove sensitive information from application.properties
+
+[33mcommit 5ef7391e9c5d5987b2954c4d5a623031a3d4d5b4[m
+Author: AKSHAY MHASKE <akshaymhaske2027@gmail.com>
+Date:   Sat Aug 3 02:07:01 2024 +0530
+
+    Removed sensitive information from application.properties
+
+[33mcommit 44ba70226899dc73a50d30014e4f6ea1570d0ee1[m
+Author: AKSHAY MHASKE <akshaymhaske2027@gmail.com>
+Date:   Sat Aug 3 01:55:19 2024 +0530
+
+    complete-backend
+
+[33mcommit ebbc4fd6f9fadd636ae5f00ecc4ed49709734f94[m
+Author: AKSHAY MHASKE <akshaymhaske2027@gmail.com>
+Date:   Fri Aug 2 14:51:07 2024 +0530
+
+    project-structure
